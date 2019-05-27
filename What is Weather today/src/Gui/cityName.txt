@@ -1,0 +1,9 @@
+Gwangju,광주
+Daegu,대구
+Daejeon,대전
+Busan,부산
+Seoul,서울
+Sejong,세종
+Ulsan,울산
+Incheon,인천
+Jeju,제주
